@@ -1,2 +1,2 @@
-magoga
-learning python, java, c++, c#, sql
+- im magoga
+- im learning java, phyton, php, c#, c++, sql
