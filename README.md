@@ -1,2 +1,1 @@
-- im magoga
-- im learning java, phyton, php, c#, c++, sql
+
