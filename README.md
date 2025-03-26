@@ -69,7 +69,7 @@
 
 <div align="center">
 <br>
-<a href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=1000&color=7B68EE&center=true&vCenter=true&width=435&height=25%&lines=Obrigado pela visita!;Volte sempre!;Tenha um bom dia!" /></a>
+<a href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=1000&color=F0F6FC&center=true&vCenter=true&width=435&height=25%&lines=Obrigado pela visita!;Volte sempre!;Tenha um bom dia!" /></a>
 </div>
 
 <img src='https://capsule-render.vercel.app/api?type=waving&color=F0F6FC&height=120&section=footer' width='100%'/>
