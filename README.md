@@ -1,7 +1,7 @@
 <img src='https://capsule-render.vercel.app/api?type=waving&color=F0F6FC&height=120&section=header' width='100%'/>
 
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=1000&color=F0F6FC&center=true&vCenter=true&width=435&height=25%&lines=Olá! Meu nome é Fabrício.;Seja bem vindo!" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F0F6FC&width=435&height=50&lines=Ol%C3%A1!+Seja+bem+vindo+ao+meu+perfil!" alt="Typing SVG" /></a>
 </div> 
 
 <div align='center'>
@@ -69,7 +69,7 @@
 
 <div align="center">
 <br>
-<a href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=1000&color=F0F6FC&center=true&vCenter=true&width=435&height=25%&lines=Obrigado pela visita!;Volte sempre!;Tenha um bom dia!" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F0F6FC&width=435&height=50&lines=Obrigado+pela+visita!+Volte+sempre!" alt="Typing SVG" />
 </div>
 
 <img src='https://capsule-render.vercel.app/api?type=waving&color=F0F6FC&height=120&section=footer' width='100%'/>
