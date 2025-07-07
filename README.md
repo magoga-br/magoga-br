@@ -8,11 +8,9 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-
+![CSS3](https://img.shields.io/badge/BOOTSTRAP-5D3F89?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### 📊 𝙎𝙩𝙖𝙩𝙨
-
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magoga-br&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=magoga-br&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="Fabrício's GitHub Stats" />
